@@ -1,0 +1,19 @@
+{
+  "serviceMediamtx.foldableCardTitle": "MediaMTX",
+  "serviceMediamtx.serviceInfoCardTitle": "MediaMTX Service",
+  "serviceMediamtx.unfoldableCardTitle": "How to get started",
+  "serviceMediamtx.step1Description": "<strong>Quickstart Guide</strong> tells you how to start using Mediamtx on your device.",
+  "serviceMediamtx.step2Description": "The <strong>Usage Guide</strong> tells you how to use the application, according to our standard model.",
+  "serviceMediamtx.step3Description": "Download the <strong>Mediamtx Package</strong> and install it to your device according to the Quickstart Guide, to get using the app.",
+  "serviceMediamtxUsageCard.title": "Purpose",
+  "serviceMediamtxUsageCard.content": "<ul><li>Real-time tracking of friendlies <em>(GPS).</em></li><li>Send observations to the command post (HQ) for interpretation.</li><li>Follow the <strong>Recon Feed</strong></li></ul>",
+  "serviceMediamtx.guideButton.quickStart": "Quickstart",
+  "serviceMediamtx.guideButton.usage": "Usage Guide",
+  "serviceMediamtx.grabZipButton": "Open Mediamtx",
+  "serviceMediamtxUsageView.navbarTitle": "Mediamtx Usage Guide",
+  "serviceMediamtxUsageView.title": "Mediamtx",
+  "serviceMediamtxUsageView.subtitle1": "1. Creating a new event",
+  "serviceMediamtxUsageView.subtitle2": "2. Searching existing events",
+  "serviceMediamtxUsageView.subtitle3": "3. Viewing existing events",
+  "serviceMediamtxUsageView.subtitle4": "4. Single event view"
+}

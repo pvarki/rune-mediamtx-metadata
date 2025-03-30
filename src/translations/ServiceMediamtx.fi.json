@@ -1,0 +1,19 @@
+{
+  "serviceMediamtx.foldableCardTitle": "MediaMTX",
+  "serviceMediamtx.serviceInfoCardTitle": "Sovellus MediaMTX",
+  "serviceMediamtx.unfoldableCardTitle": "Näin otat käyttöön",
+  "serviceMediamtx.step1Description": "<strong>Käyttöönotto-ohje</strong> opastaa palvelun käyttöönoton laitteellesi.",
+  "serviceMediamtx.step2Description": "Ohje <strong>Käyttö joukossa</strong> opastaa, miten käytät sovellusta perusmallin mukaisesti.",
+  "serviceMediamtx.step3Description": "<strong>Viestiperustepaketti</strong> sisältää ladattavat henkilökohtaiset perusteesi.",
+  "serviceMediamtxUsageCard.title": "Käyttötarkoitus lyhyesti",
+  "serviceMediamtxUsageCard.content": "<ul><li>Käyttäjiesi seuranta reaaliajassa <em>(GPS).</em></li><li>Lähetä havaintoja komentopaikalle. (HQ) tulkittavaksi</li><li>Seuraa <strong>Recon Feediä</strong></li></ul>",
+  "serviceMediamtx.guideButton.quickStart": "Käyttöönotto",
+  "serviceMediamtx.guideButton.usage": "Käyttö joukossa",
+  "serviceMediamtx.grabZipButton": "Avaa Mediamtx",
+  "serviceMediamtxUsageView.navbarTitle": "Mediamtxin käyttöohje",
+  "serviceMediamtxUsageView.title": "Mediamtxin käyttöohje",
+  "serviceMediamtxUsageView.subTitle1": "1. Creating a new event",
+  "serviceMediamtxUsageView.subTitle2": "2. Searching existing events",
+  "serviceMediamtxUsageView.subTitle3": "3. Viewing existing events",
+  "serviceMediamtxUsageView.subTitle4": "4. Single event view"
+}
