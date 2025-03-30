@@ -21,11 +21,11 @@ The integration API is expected to supply `CredentialEmail` and `CredentialPassw
     "name": "CredentialEmail",
     "type": "Component"
     "body": "foo@example.fi"
-  ],
+  },
   {
     "name": "CredentialPassword",
     "type": "Component"
     "body": "!secret!"
-  ],
+  }
 ]
 ```
