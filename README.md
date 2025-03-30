@@ -12,7 +12,7 @@ The integration API is expected to supply `CredentialEmail` and `CredentialPassw
 4. Final JSON returned to the browser app
 5. Browser app renders the content
 
-### `UserCredentialDetails`
+### Outside components `CredentialEmail` and `CredentialPassword`
 
 ```json
 [
